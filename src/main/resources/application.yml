@@ -2,3 +2,8 @@ management:
   endpoint:
     health:
       enabled: true
+
+
+
+#clientId: order-client
+#clientSecret: order-secret-8888
